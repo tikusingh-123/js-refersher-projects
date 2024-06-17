@@ -1,0 +1,134 @@
+/*
+
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+
+
+}
+
+#btnContainer{
+    text-align: center;
+
+}
+
+
+.buttons{
+
+    padding:20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(77, 148, 77);
+    border-radius: 5px;
+    cursor : pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: hsl(71, 92%, 14%);
+}
+
+
+
+
+
+
+
+body{
+
+    font-family : Verdana;
+    text-align : center;
+
+}
+
+
+#myButton{
+
+    font-size: 2em;
+    padding: 5px 25px;
+    border-radius: 2px;
+}
+
+#myLabel{
+
+    font-size: 2em;
+}
+
+
+
+*/
+
+body{
+
+    background-color: rgb(243, 238, 238);
+    font-family: 'Times New Roman';
+}
+
+
+h1{
+
+    font-size: 2em;
+    font-family: Verdana;
+    color: blue;
+}
+
+
+form{
+
+    text-align: center;
+    margin: auto;
+    box-shadow: 5px 15px 20px ;
+    max-width: 350px;
+    background-color: rgb(205, 238, 238);
+    border-radius: 2px 2px 2px ;
+    padding: 25px;
+}
+
+
+
+#myInput{
+
+    text-align: center;
+    font-size : 1em;
+    border : solid black ;
+    width: 50% ;
+    margin-bottom: 15px;
+
+}
+
+
+label{
+
+    text-align: center;
+    font-family: Verdana;
+    font-size: 1em;
+    font-weight: bold;
+
+}
+
+button{
+
+    padding: 2%;
+    margin-top: 15px;
+    background-color: rgb(124, 245, 120);
+    color: rgba(88, 12, 12, 0.473);
+    transition: .25s;
+}
+
+button:hover{
+
+    background-color: rgb(25, 102, 23);
+    cursor: pointer;
+}
+
+
+#output
+
+{
+    margin-top: 15px;
+    color: rgb(67, 57, 112);
+    font-size: 1em;
+}
